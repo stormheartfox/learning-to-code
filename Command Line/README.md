@@ -3,11 +3,12 @@
 In this section you will learn the basics of how to utilise the terminal in a Mac/Linux system,
 from navigation, to file and folder creation, adding text to files and deletion.
 
+---
 ## Table of Contents:
 - [Navigating the terminal](https://github.com/michaeljgrant/learning-to-code/tree/main/Command%20Line#navigating-the-terminal)
 - [Creating files & folders](https://github.com/michaeljgrant/learning-to-code/tree/main/Command%20Line#creating-files-and-folders)
 - [Deleting files & folders](https://github.com/michaeljgrant/learning-to-code/tree/main/Command%20Line#deleting-files-and-folders)
-
+---
 ### Navigating the terminal
 
 Upon opening the terminal you will find yourself at the users home folder - delineated by a ```~``` in your prompt.
