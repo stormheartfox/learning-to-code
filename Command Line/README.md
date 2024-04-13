@@ -1,4 +1,12 @@
-## Introduction to command line basics
+# Introduction to command line basics
+
+In this section you will learn the basics of how to utilise the terminal in a Mac/Linux system,
+from navigation, to file and folder creation, adding text to files and deletion.
+
+## Table of Contents:
+- [Navigating the terminal](https://github.com/michaeljgrant/learning-to-code/tree/main/Command%20Line#navigating-the-terminal)
+- Creating files & folders
+- Deleting files & folders
 
 ### Navigating the terminal
 
