@@ -27,3 +27,19 @@ Try executing the command:
 You should see that the prompt now says ```~/Downloads```
 
 This shows you have moved into a new folder. If you run ```ls``` again you will be able to see the files listed in your Downloads folder.
+
+
+To move up one folder in the directory structure:
+
+```cd ..``` 
+
+Try navigating around your folders by using cd to to traverse up and down through your folders.
+If at any time you're not sure where you are and want to return to your home folder use:
+
+```cd ~```
+
+You can also navigate through multiple folder layers by using the full path, e.g if you are in your Music folder and want to go straight to your downloads folder you can use:
+
+```cd ~/Downloads```
+
+This is the path from your home directory at ```~``` and down into the Downloads folder without having to type ```cd``` twice or more.
