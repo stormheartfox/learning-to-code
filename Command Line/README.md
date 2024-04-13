@@ -5,8 +5,8 @@ from navigation, to file and folder creation, adding text to files and deletion.
 
 ## Table of Contents:
 - [Navigating the terminal](https://github.com/michaeljgrant/learning-to-code/tree/main/Command%20Line#navigating-the-terminal)
-- Creating files & folders
-- Deleting files & folders
+- [Creating files & folders](https://github.com/michaeljgrant/learning-to-code/tree/main/Command%20Line#creating-files-and-folders)
+- [Deleting files & folders](https://github.com/michaeljgrant/learning-to-code/tree/main/Command%20Line#deleting-files-and-folders)
 
 ### Navigating the terminal
 
@@ -51,3 +51,7 @@ You can also navigate through multiple folder layers by using the full path, e.g
 ```cd ~/Downloads```
 
 This is the path from your home directory at ```~``` and down into the Downloads folder without having to type ```cd``` twice or more.
+
+### Creating files and folders
+
+### Deleting files and folders
