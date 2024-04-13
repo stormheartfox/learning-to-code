@@ -7,7 +7,7 @@ Similar to bootcamps format this will assign you with simple tasks to complete a
 There is no particular order in which you should approach these modules however you may find that some more advanced modules will require you to have some pre-requisite knowledge.(These will be listed to the best of my ability)
 
 
-###Suggested Order Of Learning:
+### Suggested Order Of Learning:
 - Command Line
 - Understanding the browser
 - Javascript basics
