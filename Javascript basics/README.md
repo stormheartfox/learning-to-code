@@ -1,1 +1,1 @@
-## Understanding The Basics
+## JavaScript Basics
